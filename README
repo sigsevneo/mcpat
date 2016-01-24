@@ -64,7 +64,7 @@ How to use the tool?
 ====================
 
 McPAT takes input parameters from an XML-based interface,
-then it computes area and peak power of the 
+then it computes area and peak power of the processor.
 Please note that the peak power is the absolute worst case power, 
 which could be even higher than TDP. 
 
